@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/firstReactDeploy/static/css/main.a617e044.chunk.css",
-    "main.js": "/firstReactDeploy/static/js/main.500b44ab.chunk.js",
-    "main.js.map": "/firstReactDeploy/static/js/main.500b44ab.chunk.js.map",
-    "runtime-main.js": "/firstReactDeploy/static/js/runtime-main.9cdd5ac3.js",
-    "runtime-main.js.map": "/firstReactDeploy/static/js/runtime-main.9cdd5ac3.js.map",
-    "static/js/2.17aa7c87.chunk.js": "/firstReactDeploy/static/js/2.17aa7c87.chunk.js",
-    "static/js/2.17aa7c87.chunk.js.map": "/firstReactDeploy/static/js/2.17aa7c87.chunk.js.map",
-    "static/js/3.cd77b59a.chunk.js": "/firstReactDeploy/static/js/3.cd77b59a.chunk.js",
-    "static/js/3.cd77b59a.chunk.js.map": "/firstReactDeploy/static/js/3.cd77b59a.chunk.js.map",
+    "main.css": "/firstReactDeploy/static/css/main.3cfdf183.chunk.css",
+    "main.js": "/firstReactDeploy/static/js/main.802635d8.chunk.js",
+    "main.js.map": "/firstReactDeploy/static/js/main.802635d8.chunk.js.map",
+    "runtime-main.js": "/firstReactDeploy/static/js/runtime-main.43abfd03.js",
+    "runtime-main.js.map": "/firstReactDeploy/static/js/runtime-main.43abfd03.js.map",
+    "static/js/2.1555ee64.chunk.js": "/firstReactDeploy/static/js/2.1555ee64.chunk.js",
+    "static/js/2.1555ee64.chunk.js.map": "/firstReactDeploy/static/js/2.1555ee64.chunk.js.map",
+    "static/js/3.50877681.chunk.js": "/firstReactDeploy/static/js/3.50877681.chunk.js",
+    "static/js/3.50877681.chunk.js.map": "/firstReactDeploy/static/js/3.50877681.chunk.js.map",
     "index.html": "/firstReactDeploy/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/firstReactDeploy/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.17aa7c87.chunk.js.LICENSE.txt": "/firstReactDeploy/static/js/2.17aa7c87.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/firstReactDeploy/static/media/logo.6ce24c58.svg"
+    "static/css/main.3cfdf183.chunk.css.map": "/firstReactDeploy/static/css/main.3cfdf183.chunk.css.map",
+    "static/js/2.1555ee64.chunk.js.LICENSE.txt": "/firstReactDeploy/static/js/2.1555ee64.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9cdd5ac3.js",
-    "static/js/2.17aa7c87.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.500b44ab.chunk.js"
+    "static/js/runtime-main.43abfd03.js",
+    "static/js/2.1555ee64.chunk.js",
+    "static/css/main.3cfdf183.chunk.css",
+    "static/js/main.802635d8.chunk.js"
   ]
 }
